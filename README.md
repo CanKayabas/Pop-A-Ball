@@ -1,5 +1,5 @@
 # Pop-A-Ball
-Pop a ball web game
+Pop a ball web game (right, left, space)
 <div align="center">
   <a href="https://github.com/CanKayabas">
     <img src="https://github.com/CanKayabas/Pop-A-Ball/blob/main/one.png" alt="Picture" width="%100" height="%100">
